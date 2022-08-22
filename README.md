@@ -8,7 +8,7 @@ Ti invito a leggere il **regolamento** e le **F.A.Q.** che seguono per poter ave
 Il gruppo, la community, non ha alcun tipo di affiliazione con Flipper Devices Inc.
 --
 ## Generale
-[Regolamento](#regolamento)
+- [Regolamento](#regolamento)
 ---
 ## Regolamento
 --
