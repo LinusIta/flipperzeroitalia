@@ -1,4 +1,4 @@
-# Flipper Zero Italia 🐬
+# Flipper Zero Italia🐬🇮🇹
 
 Ciao, ti do il benvenuto nella community Italiana del dispositivo Flipper Zero!
 Ti invito a leggere il **regolamento** e le **F.A.Q.** che seguono per poter avere una convivenza pacifica e civile all'interno del gruppo Telegram. Al primo messaggio che va contro il regolamento o che avrebbe potuto avere risposta leggendo le F.A.Q. &rarr **BAN**.
