@@ -5,10 +5,23 @@
 ### Ti invito a leggere il **regolamento** e le **F.A.Q.** che seguono per poter avere una convivenza pacifica e civile all'interno del gruppo Telegram. Al primo messaggio che va contro il regolamento o che avrebbe potuto avere risposta leggendo le F.A.Q. -> **BAN.**
   
 ### **⚠️ ATTENZIONE ⚠️**: Il gruppo, la community, non ha alcun tipo di affiliazione con *Flipper Devices Inc.*  
+
+## **Generale**
+
+- **[📜 Regolamento](#📜-regolamento)**
+
+- **[🤔 F.A.Q.](#🤔-faq)**
+
+- **[📖 Tutorial](#📖-tutorial)**
+
+- **[🔗 Links](#🔗-links-work-in-progress)**
   
 ### **📜 Regolamento**
   
-- **Il gruppo non è un mercatino**: se sei alla ricerca di un Flipper Zero, recati altrove, ci sono sito e rivenditore ufficiali, oltre ai classici siti web per la compravendita online. Si può richiedere se qualcuno vende dispositivo e accessori, ma ogni tipo di messaggio successivo e inerente alla compravendita deve avvenire in privato tra acquirente e venditore, sul gruppo non deve apparire nulla. Inoltre evitare spam di richieste. Se devi vendere, puoi scrivere che sei disponibile a vendere il tuo dispositivo e accessori, ma come prima vale la regola del non spam.
+- **Il gruppo non è un mercatino**
+  - Sei alla ricerca di un Flipper Zero? Ci dispiace ma questo non è un gruppo di compra vendita, per acquistarlo puoi fare riferimento al sito ufficiale e al rivenditore  ufficiale, oltre ai classici siti web per la compravendita online.
+  - Puoi richiedere se qualcuno vende dispositivo e/o accessori, ma ogni tipo di messaggio successivo e inerente alla compravendita deve avvenire in privato tra acquirente e venditore, sul gruppo non deve apparire nulla. **Evita spam di richieste**.
+  - Nel caso tu sia il venditore, puoi scrivere che sei disponibile a vendere il tuo dispositivo e/o accessori, ma come prima vale la regola del non spam e ogni messaggio successivo all'annuncio deve essere strettamente privato.
   
 ### **🤔 F.A.Q.**
   
@@ -19,7 +32,7 @@
 - **Perché devo avere uno username?**
   - Il bot che aiuta a gestire il gruppo necessità che tutti gli utenti possiedano uno username in quanto alcune sue interazioni possono avvenire solo se l'utente possiede uno username (Impostazioni>Modifica profilo>Username).
 - **Non hai trovato le informazioni che cercavi?**
-  - Prova a cercare nei seguenti siti:
+  - Prova a cercare nei FAQ ufficiali:
     - [FAQ - Flipper Zero](https://flipperzero.one/faq)
     - [FAQ - Lab401](https://lab401.com/pages/faq)
 
