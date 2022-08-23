@@ -8,13 +8,13 @@
 
 ## **Generale**
 
-- **[📜 Regolamento](#📜-regolamento)**
+- **[📜 Regolamento](#-regolamento)**
 
-- **[🤔 F.A.Q.](#🤔-faq)**
+- **[🤔 F.A.Q.](#-faq)**
 
-- **[📖 Tutorial](#📖-tutorial)**
+- **[📖 Tutorial](#-tutorial)**
 
-- **[🔗 Links](#🔗-links-work-in-progress)**
+- **[🔗 Links](#-links-work-in-progress)**
   
 ### **📜 Regolamento**
   
@@ -44,4 +44,6 @@ Coming Soon.
 
 In questa sezione troverai vari link a **tutorial**, **firmware**, **documentazione**e **altro**.
 
-- **Awesome Flipper** - [GitHub - djsime1/awesome-flipperzero: 🐬 A collection of awesome resources for the Flipper Zero device.](https://github.com/djsime1/awesome-flipperzero) Qua puoi trovare una lista di tutti i link ai vari custom firmware e altri link utili.
+- **Flipper Zero Docs** - [Flipper Zero Docs](https://docs.flipperzero.one) Documentazione ufficiale gestita da Flipper Devices Inc.
+
+- **Awesome Flipper** - [GitHub - djsime1/awesome-flipperzero: 🐬 A collection of awesome resources for the Flipper Zero device.](https://github.com/djsime1/awesome-flipperzero) Raccolta gestita dalla community internazionale contenente link utili, tutorial, informazioni e comparazioni sui firmware e tanto altro ancora.
