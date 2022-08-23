@@ -38,7 +38,7 @@
 
 ### **📖 Tutorial**
 
-Coming Soon
+Coming Soon.
   
 ### **🔗 Links** *(Work In Progress)*
 
