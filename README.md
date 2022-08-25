@@ -39,6 +39,10 @@
   - Prova a cercare nei FAQ ufficiali:
     - [FAQ - Flipper Zero](https://flipperzero.one/faq)
     - [FAQ - Lab401](https://lab401.com/pages/faq)
+- **Codici Sconto?**
+  - Qui alcuni segnalati dalla community per lab401:
+    - JMPESP-READERS
+    - FIVE-OFF-CART
 
 ### **📖 Tutorial**
 
