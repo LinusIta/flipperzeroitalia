@@ -7,6 +7,7 @@
 ### **⚠️ ATTENZIONE ⚠️**: Il gruppo, la community, non ha alcun tipo di affiliazione con *Flipper Devices Inc.*  
 
 ## **Generale**
+- <img src="images/Telegram_logo.png" alt="drawing" width="16"/> **[Gruppo Telegram](https://t.me/flipperzeroitalia)**
 
 - **[📜 Regolamento](#-regolamento)**
 
