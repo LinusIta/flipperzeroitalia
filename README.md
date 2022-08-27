@@ -47,7 +47,7 @@
 ### **📖 Tutorial**
 
 - **[Brute Force SubGhz](tutorials/BruteForce_SubGhz.md)**
-- **[Guida all'installazione Rogue / Unleashed](tutorials/rogue_unleashed_installazione/Rogue_Unleashed_Installazione.md)**
+- **[Guida all'installazione Rogue / Unleashed](tutorials/rogue_unleashed_installazione/Rogue_Unleashed_Installazione.md)** **WORK IN PROGRESS**
   
 ### **🔗 Links** *(Work In Progress)*
 
