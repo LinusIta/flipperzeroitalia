@@ -29,7 +29,7 @@
 ### **🤔 F.A.Q.**
   
 - **Dove posso acquistare il Flipper?**
-  - Il dispositivo può essere acquistato sul [sito ufficiale](https://flipperzero.one) (⚠️**attualmente non spedisce in Italia**⚠️), oppure dal rivenditore Europeo ufficiale [LAB401](https://lab401.com/)
+  - Il dispositivo può essere acquistato sul [sito ufficiale](https://flipperzero.one) (⚠️**attualmente non spedisce in Italia**⚠️), oppure dal rivenditore Europeo ufficiale [LAB401](https://lab401.com/). Se non è disponibile in questi due siti, allora non lo troverai altrove. Prova su siti web di compravendita come eBay o Subito.
 - **Costi? Spedizione? Tempistiche?**
   - Come hai letto all'inizio, noi non abbiamo nessun tipo di affiliazione o partner o qualsiasi altra cosa con l'azienda produttrice del dispositivo. Tutti i membri del gruppo hanno acquistato dai due siti riportati nella F.A.Q. precedente, e ne sapevano quanto te. Di conseguenza, se entrambi i siti non danno informazioni al riguardo, e se nemmeno il loro supporto [support@flipperzero.one](mailto:support@flipperzero.one) ti da risposte, allora sicuramente non possiamo farlo noi. Ti prego quindi di non fare queste domande sul gruppo.
   - I siti entrambi citati sono affidabili: tutti gli utenti e membri del gruppo hanno acquistato li. Sono attualmente gli unici due siti ufficiali e sicuri dal quale acquistare il dispositivo. Il prodotto, se acquistato li, arriva. Quindi non chiedere sul gruppo se gli ordini stanno arrivando o se i siti sono sicuri.
