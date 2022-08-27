@@ -46,7 +46,7 @@
 
 ### **📖 Tutorial**
 
-Coming Soon.
+- **[Brute Force SubGhz](Tutorial/BruteForce_SubGhz.md)**
   
 ### **🔗 Links** *(Work In Progress)*
 
