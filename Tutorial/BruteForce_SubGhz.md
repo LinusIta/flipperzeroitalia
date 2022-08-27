@@ -35,7 +35,7 @@ Consideriamo le seguenti suddivisioni delle cartelle:
 ```
 **Esecuzione:**
 
--Lanciamo il file 4096, troviamo il segnale!
--A questo punto scegliamo di lanciare il primo file 2048_001.sub
--Troviamo nuovamente il segnale, questo significa che il prossimo passaggio andremo a provare i primi due della successiva divisione: 1024_001.sub e 1024_002.sub
--Se invece avessimo avuto corrispondenza lanciando il file 2048_002.sub avremmo dovuto cercare la divisione della seconda metà quindi: 1024_001.sub e 1024_002.sub e via così man mano che vogliamo aumentare la precisione del segnale cercato.
+- Lanciamo il file 4096, troviamo il segnale!
+- A questo punto scegliamo di lanciare il primo file 2048_001.sub
+- Troviamo nuovamente il segnale, questo significa che il prossimo passaggio andremo a provare i primi due della successiva divisione: 1024_001.sub e 1024_002.sub
+- Se invece avessimo avuto corrispondenza lanciando il file 2048_002.sub avremmo dovuto cercare la divisione della seconda metà quindi: 1024_001.sub e 1024_002.sub e via così man mano che vogliamo aumentare la precisione del segnale cercato.
