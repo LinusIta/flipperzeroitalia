@@ -24,7 +24,7 @@
   - Puoi richiedere se qualcuno vende dispositivo e/o accessori, ma ogni tipo di messaggio successivo e inerente alla compravendita deve avvenire in privato tra acquirente e venditore, sul gruppo non deve apparire nulla. **Evita spam di richieste**.
   - Nel caso tu sia il venditore, puoi scrivere che sei disponibile a vendere il tuo dispositivo e/o accessori, ma come prima vale la regola del non spam e ogni messaggio successivo all'annuncio deve essere strettamente privato.
 - **Non scrivere agli Admin in privato**
-  - Hai una domanda inerente al Flipper? Chiedi sul gruppo. Non importunare gli admin in chat privata per domande la cui risposta potrebbe anche aiutare altri membri del gruppo.
+  - Hai una domanda inerente al Flipper? Chiedi sul gruppo. Non importunare gli admin in chat privata per domande la cui risposta potrebbe anche aiutare altri membri del gruppo. Se invece hai proposte di collaborazioni, link utili o altro, allora puoi contattare gli admin.
   
 ### **🤔 F.A.Q.**
   
