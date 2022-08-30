@@ -1,5 +1,7 @@
 # **Flipper Zero Italia🐬**
-  
+
+![sfondo_flipper_zero_italia](images/sfondo_flipper_zero_italia.jpg)
+
 ## **Benvenuto nella community Italiana di Flipper Zero🐬!**
   
 ### Ti invito a leggere il **regolamento** e le **F.A.Q.** che seguono per poter avere una convivenza pacifica e civile all'interno del gruppo Telegram. Al primo messaggio che va contro il regolamento o che avrebbe potuto avere risposta leggendo le F.A.Q. &rarr; **BAN.**
