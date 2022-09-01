@@ -1,6 +1,8 @@
-# **Tutorial Brute Force SubGhz**
+# **Tutorial Brute Force SubGhz** con aggiunta decodifica key
 
-### **Funzionamento brute force subghz:**
+
+Questo tutorial si basa su: https://github.com/tobiabocchi/flipperzero-bruteforce modificato per generare file fino ad 8bit
+
 Quando scaricate i file per fare brute force vi scaricherá un albero di cartelle cosí suddiviso:  
 ```
 
@@ -39,3 +41,43 @@ Consideriamo le seguenti suddivisioni delle cartelle:
 - A questo punto scegliamo di lanciare il primo file 2048_001.sub
 - Troviamo nuovamente il segnale, questo significa che il prossimo passaggio andremo a provare i primi due della successiva divisione: 1024_001.sub e 1024_002.sub
 - Se invece avessimo avuto corrispondenza lanciando il file 2048_002.sub avremmo dovuto cercare la divisione della seconda metà quindi: 1024_001.sub e 1024_002.sub e via così man mano che vogliamo aumentare la precisione del segnale cercato.
+
+L'ultimo gruppo di 128 viene eseguito dal Flipper in circa 10 secondi nei quali verrà mandata tutta la sequenza di chiavi.
+
+
+Ma il nostro scopo è quello di decodificare la chiave corretta e per farlo si passa dal menu MORE (joy a destra) invece del pulsante centrale SEND
+Si presenterà un nuovo menù contenente le voci:
+Decode
+Rename
+Delete
+
+Andando su Decode il flipper invierà in sequenza le chiavi provvedendo ad una codifica in tempo reale.
+Purtroppo attualmente questa procedura non va a buon fine in quanto la memoria del flipper non riesce a gestire i file da 128 mandando in crash l'apparecchio che richiederà il reboot.
+Per ovviare a ciò basta lavorare con dei file più piccoli (ad 8bit) che il Flipper riesce a gestire senza problemi.
+
+Qui potete scaricare ______ la versione con le sottocartelle fino ad 8 bit
+
+Si prosegue quindi seguendo il metodo sopra descritto dal 128 a scendere fino a ricavare il file a 8 bit che potrà essere quindi inviato tramite il menu decode e che verrà decodificato in tempo reale senza stavolta causare crash.
+Sarà sufficiente quindi mandare il send delle 8 chiavi decodificate e salvare la chiave che farà aprire il varco.
+
+Per quanto riguarda invece l'aggiunta di nuovi protocolli è molto semplice, all'interno dello script py i protocolli sono definiti in fondo, all'interno dell'elenco dei protocolli
+
+protocols = [
+    Protocol("CAME", 12, {"0": "-320 640 ", "1": "-640 320 "}, "-11520 320 "),
+    Protocol("NICE", 12, {"0": "-700 1400 ", "1": "-1400 700 "}, "-25200 700 "),
+    Protocol("8bit", 8,  {"0": "200 -400 ", "1": "400 -200 "}),  # generic 8 bit protocol
+    ...
+]
+
+Un protocollo è definito da alcuni parametri passati al costruttore nel seguente ordine:
+
+nome: il nome del protocollo
+n_bits: il numero di bit per una singola chiave
+transposition_table: come vengono tradotti gli 0 e gli 1 nel linguaggio flipper subghz .sub
+pilot_period: alias preambolo, uno schema ricorrente all'inizio di ogni chiave, inesistente per impostazione predefinita
+stop_bit: uno schema ricorrente alla fine di ogni chiave, inesistente per impostazione predefinita
+frequenza: frequenza di lavoro, il valore predefinito è 433.92
+ripetizione: numero di trasmissioni per chiave nella forza bruta
+
+
+
