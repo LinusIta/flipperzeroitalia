@@ -10,7 +10,7 @@ Alle seguenti pagine sono presenti i repository (i progetti) dei Custom Firmware
 
 Una volta aperta una delle due pagine (la procedura è la stessa per entrambi i firmware), vedrai davanti a te una finestra simile a questa:
 
-![pagina_custom_firmware](/tutorials/rogue_unleashed_installazione/images/pagina_custom_firmware.jpg)
+<img src="images/pagina_custom_firmware.jpg" alt="drawing" width="1024"/>
 
 Sulla destra sono presenti due sezioni, **About** e **Releases**. Nella sezione **Releases** devi premere sul link che riporta il nome della versione con al di sotto una etichetta che invece riporta quanto tempo fa è stata rilasciata.
 
