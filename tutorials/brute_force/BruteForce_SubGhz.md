@@ -77,6 +77,7 @@ Troverete allegato anche il file <b>flipperzero-bruteforce.py</b> preso da https
 
 Per quanto riguarda invece l'aggiunta di nuovi protocolli è molto semplice: all'interno dello script py i protocolli sono definiti in fondo, all'interno dell'elenco dei protocolli
 
+```
 protocols = [
 
     Protocol("CAME", 12, {"0": "-320 640 ", "1": "-640 320 "}, "-11520 320 "),
@@ -88,7 +89,7 @@ protocols = [
     ...
     
 ]
-
+```
 
 Un protocollo è definito da alcuni parametri passati al costruttore nel seguente ordine:
 
