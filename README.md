@@ -38,6 +38,8 @@
   - Lo stesso discorso vale per il riassortimento: se i siti precedentemente citati non danno informazioni sul restock del dispositivo, allora sicuramente non possiamo saperlo noi. Manda una email ai contatti messi a disposizione sui siti per richiedere direttamente al loro stuff queste informazioni.
 - **Perché devo avere uno username?**
   - Il bot che aiuta a gestire il gruppo necessità che tutti gli utenti possiedano uno username in quanto alcune sue interazioni possono avvenire solo se l'utente possiede uno username (Impostazioni>Modifica profilo>Username).
+- **Non sai che fimrware scegliere?**
+  - Nel seguente [link](https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md) trovi la comparazione delle funzionalità dei diversi firmware.
 - **Non hai trovato le informazioni che cercavi?**
   - Prova a cercare nei FAQ ufficiali:
     - [FAQ - Flipper Zero](https://flipperzero.one/faq)
