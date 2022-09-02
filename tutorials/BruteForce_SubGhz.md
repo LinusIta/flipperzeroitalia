@@ -55,12 +55,14 @@ Andando su Decode il flipper invierà in sequenza le chiavi provvedendo ad una c
 Purtroppo attualmente questa procedura non va a buon fine in quanto la memoria del flipper non riesce a gestire i file da 128 mandando in crash l'apparecchio che richiederà il reboot.
 Per ovviare a ciò basta lavorare con dei file più piccoli (ad 8bit) che il Flipper riesce a gestire senza problemi.
 
-Qui potete scaricare ______ la versione con le sottocartelle fino ad 8 bit
+Nel file sub_file.rar troverete i file della versione originale dei file della repo https://github.com/tobiabocchi/flipperzero-bruteforce con all'interno già generate anche le cartelle a 64, 32, 16 e 8 bit.
 
 Si prosegue quindi seguendo il metodo sopra descritto dal 128 a scendere fino a ricavare il file a 8 bit che potrà essere quindi inviato tramite il menu decode e che verrà decodificato in tempo reale senza stavolta causare crash.
 Sarà sufficiente quindi mandare il send delle 8 chiavi decodificate e salvare la chiave che farà aprire il varco.
 
-Per quanto riguarda invece l'aggiunta di nuovi protocolli è molto semplice, all'interno dello script py i protocolli sono definiti in fondo, all'interno dell'elenco dei protocolli
+Troverete allegato anche il file flipperzero-bruteforce.py preso da https://github.com/tobiabocchi/flipperzero-bruteforce e modificato per generare sottocartelle fino ad 8 bit è il.
+
+Per quanto riguarda invece l'aggiunta di nuovi protocolli è molto semplice: all'interno dello script py i protocolli sono definiti in fondo, all'interno dell'elenco dei protocolli
 
 protocols = [
     Protocol("CAME", 12, {"0": "-320 640 ", "1": "-640 320 "}, "-11520 320 "),
@@ -74,10 +76,10 @@ Un protocollo è definito da alcuni parametri passati al costruttore nel seguent
 nome: il nome del protocollo
 n_bits: il numero di bit per una singola chiave
 transposition_table: come vengono tradotti gli 0 e gli 1 nel linguaggio flipper subghz .sub
-pilot_period: alias preambolo, uno schema ricorrente all'inizio di ogni chiave, inesistente per impostazione predefinita
-stop_bit: uno schema ricorrente alla fine di ogni chiave, inesistente per impostazione predefinita
+pilot_period: (preamble) uno schema ricorrente all'inizio di ogni chiave, inesistente per default
+stop_bit: uno schema ricorrente alla fine di ogni chiave, inesistente per default
 frequenza: frequenza di lavoro, il valore predefinito è 433.92
-ripetizione: numero di trasmissioni per chiave nella forza bruta
+ripetizione: numero di trasmissioni per chiave nel brute force
 
 
 
