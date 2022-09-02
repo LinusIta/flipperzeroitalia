@@ -58,7 +58,8 @@ Si presenterà un nuovo menù contenente le voci:
 Andando su <b>Decode</b> il flipper invierà in sequenza le chiavi provvedendo ad una codifica in tempo reale.
 Purtroppo attualmente questa procedura non va a buon fine in quanto la memoria del flipper non riesce a gestire i file da 128 mandando in crash l'apparecchio che richiederà il reboot.
 
-<div align=center><img src="images/displaykeynotok.jpg" alt="displaykeynotok" width="200"/><p><img src="images/crash.jpg" alt="crash" width="200"/></div>
+<div align=center><img src="images/displaykeynotok.jpg" alt="displaykeynotok" width="200"/></div>
+<div align=center><img src="images/crash.jpg" alt="crash" width="200"/></div>
 
 Per ovviare a ciò basta lavorare con dei file più piccoli (ad 8bit) che il Flipper riesce a gestire senza problemi.
 
@@ -91,13 +92,13 @@ protocols = [
 
 Un protocollo è definito da alcuni parametri passati al costruttore nel seguente ordine:
 
-nome: il nome del protocollo<br>
-n_bits: il numero di bit per una singola chiave<br>
-transposition_table: come vengono tradotti gli 0 e gli 1 nel linguaggio flipper subghz .sub<br>
-pilot_period: (preamble) uno schema ricorrente all'inizio di ogni chiave, inesistente per default<br>
-stop_bit: uno schema ricorrente alla fine di ogni chiave, inesistente per default<br>
-frequenza: frequenza di lavoro, il valore predefinito è 433.92<br>
-ripetizione: numero di trasmissioni per chiave nel brute force<p>
+- nome: il nome del protocollo
+- n_bits: il numero di bit per una singola chiave
+- transposition_table: come vengono tradotti gli 0 e gli 1 nel linguaggio flipper subghz .sub
+- pilot_period: (preamble) uno schema ricorrente all'inizio di ogni chiave, inesistente per default
+- stop_bit: uno schema ricorrente alla fine di ogni chiave, inesistente per default
+- frequenza: frequenza di lavoro, il valore predefinito è 433.92
+- ripetizione: numero di trasmissioni per chiave nel brute force
 
 # Download file necessari
 - [flipperzero-bruteforce.py](flipperzero-bruteforce.py)
