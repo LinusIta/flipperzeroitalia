@@ -55,12 +55,12 @@ Andando su <b>Decode</b> il flipper invierà in sequenza le chiavi provvedendo a
 Purtroppo attualmente questa procedura non va a buon fine in quanto la memoria del flipper non riesce a gestire i file da 128 mandando in crash l'apparecchio che richiederà il reboot.
 Per ovviare a ciò basta lavorare con dei file più piccoli (ad 8bit) che il Flipper riesce a gestire senza problemi.
 
-Nel file sub_file.rar troverete i file della versione originale dei file della repo https://github.com/tobiabocchi/flipperzero-bruteforce con all'interno già generate anche le cartelle a 64, 32, 16 e 8 bit.
+Nel file <b>sub_file.rar</b> troverete i file della versione originale dei file della repo https://github.com/tobiabocchi/flipperzero-bruteforce con all'interno già generate anche le cartelle a 64, 32, 16 e 8 bit.
 
 Si prosegue quindi seguendo il metodo sopra descritto dal 128 a scendere fino a ricavare il file a 8 bit che potrà essere quindi inviato tramite il menu decode e che verrà decodificato in tempo reale senza stavolta causare crash.
 Sarà sufficiente quindi mandare il send delle 8 chiavi decodificate e salvare la chiave che farà aprire il varco.
 
-Troverete allegato anche il file flipperzero-bruteforce.py preso da https://github.com/tobiabocchi/flipperzero-bruteforce e modificato per generare sottocartelle fino ad 8 bit è il.
+Troverete allegato anche il file <b>flipperzero-bruteforce.py</b> preso da https://github.com/tobiabocchi/flipperzero-bruteforce e modificato per generare sottocartelle fino ad 8 bit.
 
 Per quanto riguarda invece l'aggiunta di nuovi protocolli è molto semplice: all'interno dello script py i protocolli sono definiti in fondo, all'interno dell'elenco dei protocolli
 
