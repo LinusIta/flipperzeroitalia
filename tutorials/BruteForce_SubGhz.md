@@ -65,11 +65,17 @@ Troverete allegato anche il file flipperzero-bruteforce.py preso da https://gith
 Per quanto riguarda invece l'aggiunta di nuovi protocolli è molto semplice: all'interno dello script py i protocolli sono definiti in fondo, all'interno dell'elenco dei protocolli
 
 protocols = [
+
     Protocol("CAME", 12, {"0": "-320 640 ", "1": "-640 320 "}, "-11520 320 "),
+    
     Protocol("NICE", 12, {"0": "-700 1400 ", "1": "-1400 700 "}, "-25200 700 "),
+    
     Protocol("8bit", 8,  {"0": "200 -400 ", "1": "400 -200 "}),  # generic 8 bit protocol
+    
     ...
+    
 ]
+
 
 Un protocollo è definito da alcuni parametri passati al costruttore nel seguente ordine:
 
