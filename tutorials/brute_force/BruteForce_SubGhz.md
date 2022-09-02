@@ -45,20 +45,20 @@ Consideriamo le seguenti suddivisioni delle cartelle:
 
 L'ultimo gruppo di 128 viene eseguito dal Flipper in circa 10 secondi nei quali verrà mandata tutta la sequenza di chiavi.
 
-<img src="../../images/sub.jpg" alt="128" width="200"/>
+<div align=center><img src="images/sub.jpg" alt="128" width="200"/></div>
 
 Ma il nostro scopo è quello di decodificare la chiave corretta e per farlo si passa dal menu MORE (joy a destra) invece del pulsante centrale SEND
 
-<img src="../../images/more.jpg" alt="more" width="200"/>
+<div align=center><img src="images/more.jpg" alt="more" width="200"/></div>
 
 Si presenterà un nuovo menù contenente le voci:
 
-<img src="../../images/menudecode.jpg" alt="menudecode" width="200"/>
+<div align=center><img src="images/menudecode.jpg" alt="menudecode" width="200"/></div>
 
 Andando su <b>Decode</b> il flipper invierà in sequenza le chiavi provvedendo ad una codifica in tempo reale.
 Purtroppo attualmente questa procedura non va a buon fine in quanto la memoria del flipper non riesce a gestire i file da 128 mandando in crash l'apparecchio che richiederà il reboot.
 
-<img src="../../images/displaykeynotok.jpg" alt="displaykeynotok" width="200"/><p><img src="../../images/crash.jpg" alt="crash" width="200"/>
+<div align=center><img src="images/displaykeynotok.jpg" alt="displaykeynotok" width="200"/><p><img src="images/crash.jpg" alt="crash" width="200"/></div>
 
 Per ovviare a ciò basta lavorare con dei file più piccoli (ad 8bit) che il Flipper riesce a gestire senza problemi.
 
@@ -66,11 +66,11 @@ Nel file <b>sub_file.rar</b> troverete i file della versione originale dei file 
 
 Si prosegue quindi seguendo il metodo sopra descritto dal 128 a scendere fino a ricavare il file a 8 bit che potrà essere quindi inviato tramite il menu decode che arriverà al 100% senza stavolta causare crash riuscendo quindi a decodificare correttamente le 8 key.
     
-<img src="../../images/displaydecodeok.jpg" alt="displaykeyok" width="200"/>
+<div align=center><img src="images/displaydecodeok.jpg" alt="displaykeyok" width="200"/></div>
     
 Sarà sufficiente quindi mandare singolarmente le 8 chiavi decodificate e salvare la chiave che farà aprire il varco.
     
-<img src="../../images/displaykey.jpg" alt="displaykey" width="200"/>
+<div align=center><img src="images/displaykey.jpg" alt="displaykey" width="200"></div>
 
 Troverete allegato anche il file <b>flipperzero-bruteforce.py</b> preso da https://github.com/tobiabocchi/flipperzero-bruteforce e modificato per generare sottocartelle fino ad 8 bit.
 
