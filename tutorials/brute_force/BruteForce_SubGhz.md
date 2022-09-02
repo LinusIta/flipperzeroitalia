@@ -87,7 +87,8 @@ stop_bit: uno schema ricorrente alla fine di ogni chiave, inesistente per defaul
 frequenza: frequenza di lavoro, il valore predefinito è 433.92<br>
 ripetizione: numero di trasmissioni per chiave nel brute force<p>
 
-
-
+# Download file necessari
+[flipperzero-bruteforce.py](flipperzero-bruteforce.py)
+[sub_files.rar](sub_files.rar)
 
 
