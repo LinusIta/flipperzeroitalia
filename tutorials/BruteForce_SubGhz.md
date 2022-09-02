@@ -89,3 +89,4 @@ ripetizione: numero di trasmissioni per chiave nel brute force
 
 
 
+
