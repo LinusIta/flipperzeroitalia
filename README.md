@@ -48,6 +48,9 @@
   - Qui alcuni segnalati dalla community per lab401:
     - JMPESP-READERS
     - FIVE-OFF-CART
+    - RETURNING-HERO
+      - Sconto del 7%
+      - Data segnalazione: 2 Settembre 2022 - 13:33
 
 ### **📖 Tutorial**
 
