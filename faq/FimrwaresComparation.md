@@ -68,8 +68,8 @@ Prendi in considerazione di guardare [Awesome Flipper Zero list](https://github.
 > [v1nc/flipperzero-firmware](https://github.com/v1nc/flipperzero-firmware)
 
 - Supporta differente layout di tastiera per DuckyScript tramite la keyword `DUCKY_LANG`
-- Up to date fork of the Unleashed firmware
-- Includes community plugins & games
+- Aggiornato con le ultime modifiche del firmware Unleashed.
+- Include plugin e giochi della community.
 
 ### **Wetox**
 
