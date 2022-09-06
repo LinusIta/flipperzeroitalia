@@ -75,7 +75,7 @@ Prendi in considerazione di guardare [Awesome Flipper Zero list](https://github.
 
 > [wetox-team/flipperzero-firmware](https://github.com/wetox-team/flipperzero-firmware)
 
-- The dev branch is intended for public use, while others are either testing or archived hackathon submissions.
+- Il branch di dev è destinato all'uso pubblico, mentre altri sono sia di test o archiviati contributi hackathon
 - Può crackare le password del T5577 RFID passwords tramite dictionary attack.
 - Testata del desktop brandizzata [WTX].
 - Frequentemente aggiornata con interessanti modifiche sperimentali in diversi [branches](https://github.com/wetox-team/flipperzero-firmware/branches).
@@ -84,7 +84,7 @@ Prendi in considerazione di guardare [Awesome Flipper Zero list](https://github.
 
 > [MuddledBox/flipperzero-firmware](https://github.com/MuddledBox/flipperzero-firmware)
 
-- **Abandoned. Not updated for more than 2 months.**
+- **Abbandonato. Nessun aggiornamento da oltre 2 mesi.**
 - Rimosse restrizioni Sub-Ghz per paese.
 - Aggiunte immagini promozionali nella pagina About delle impostazioni.
 - Aggiunte Sub-Ghzfrequenze comuni per catturarle.
