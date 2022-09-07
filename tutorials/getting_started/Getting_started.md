@@ -41,5 +41,5 @@ e dovreste trovarvi le cartelle che avete copiato nel punto precedente.
 ![image](images/Screenshot-20220907-104524.png "image")  
 e seguite le indicazioni finché vi darà conferma dell'avvenuta installazione..
 
-Ora siete degli hackerzzzz? No, ovvio per esserlo bisogna studiare e non poco, pensare fuori dagli schemi e fare tanta pratica, ma in ogni caso adesso nelle mani avete un telecomando universale con un ricco database, uno strumento con cui inoziare a capire di più sulla sicurezza informatica, un gruppo con meno persone che chiedono 1000 volte queste info 😉.  
+Ora siete degli hackerzzzz? No, ovvio per esserlo bisogna studiare e non poco, pensare fuori dagli schemi e fare tanta pratica, ma in ogni caso adesso nelle mani avete un telecomando universale con un ricco database, uno strumento con cui iniziare a capire di più sulla sicurezza informatica, un gruppo con meno persone che chiedono 1000 volte queste info 😉.  
 Guardate i tutorial che man mano svilupperemo per capire sempre più le varie funzionalità, se ne volete realizzare uno siete i benvenuti, fatecelo sapere nel gruppo [Telegram](https://t.me/flipperzeroitalia)!
