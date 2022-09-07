@@ -13,9 +13,9 @@ Se sei arrivato qui è perché non ci hai capito molto dalla documentazione, nes
 ![image](images/IMG_20220906_211502_170.jpg "image")  
 E attendi che completi l'aggiornamento.
 4. Il prossimo passaggio, facoltativo ma consigliato, è scaricare vari database da questa sezione della repository di [AwesomeFlipper](https://github.com/djsime1/awesome-flipperzero#databases--dumps).  
-I file scaricati vanno poi inseriti nelle cartelle corrette all'interno della memory card, ovvero:  
-   - I file relativi agli infrarossi (con estensione .ir) nella cartella infrared  
-   - Quelli relativi ai Sub-ghz (con estensione .sub) nella cartella subghz.  
+	I file scaricati vanno poi inseriti nelle cartelle corrette all'interno della memory card, ovvero:  
+		- I file relativi agli infrarossi (con estensione .ir) nella cartella infrared  
+		- Quelli relativi ai Sub-ghz (con estensione .sub) nella cartella subghz.  
 **AGGIUNGERE TUTTE LE ESTENSIONI / CARTELLE**  
 Questi sono file salvati dalle varie persone e condivisi, con la stessa procedura con cui salvate voi i file.  
 *Adesso viene il bello, qui di seguito illustrerò come avere entrambi i firmware nella microsd del flipper così da poter scegliere quale installare senza dover rifare la procedura con il computer, ovviamente NON é obbligatorio e potrete scegliere di eseguire i passaggi solo per il firmware che vi interessa, le differenze tra le due versioni le trovare nel regolamento a questo [link](https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md)*.
