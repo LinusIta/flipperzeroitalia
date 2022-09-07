@@ -37,8 +37,8 @@ Questi sono file salvati dalle varie persone e condivisi, con la stessa procedur
 e dovreste trovarvi le cartelle che avete copiato nel punto precedente.
 9. Aprite la cartella del firmware che vi interessa (se ne può installare solo uno alla volta) e cercate questo file:  
 ![image](images/IMG_20220906_204728_280.jpg "image")  
-10. Una volta trovato premete col tasto centrale e selezionate **Run in app**:  
-![image](images/IMG_20220906_231103_521.jpg "image")  
+10. Una volta trovato premete col tasto centrale e selezionate **Run in app**:   
+![image](images/Screenshot-20220907-104524.png "image")  
 e seguite le indicazioni finché vi darà conferma dell'avvenuta installazione..
 
 Ora siete degli hackerzzzz? No, ovvio per esserlo bisogna studiare e non poco, pensare fuori dagli schemi e fare tanta pratica, ma in ogni caso adesso nelle mani avete un telecomando universale con un ricco database, uno strumento con cui inoziare a capire di più sulla sicurezza informatica, un gruppo con meno persone che chiedono 1000 volte queste info 😉.  
