@@ -55,7 +55,7 @@
 ### **📖 Tutorial**
 
 - **[Brute Force SubGhz](tutorials/brute_force/BruteForce_SubGhz.md)**
-- **[Guida all'installazione Rogue / Unleashed](tutorials/rogue_unleashed_installazione/Rogue_Unleashed_Installazione.md)** **WORK IN PROGRESS**
+- **[Guida all'installazione Rogue / Unleashed](tutorials/rogue_unleashed_installazione/Rogue_Unleashed_Installazione.md)**
 - **[Flash Marauder da Computer Mac](tutorials/marauder_install/on_mac/readme.md)**
   
 ### **🔗 Links** *(Work In Progress)*
