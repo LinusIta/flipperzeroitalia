@@ -4,7 +4,7 @@
 
 ## **Benvenuto nella community Italiana di Flipper Zero🐬!**
   
-### Ti invito a leggere il **regolamento** e le **F.A.Q.** che seguono per poter avere una convivenza pacifica e civile all'interno del gruppo Telegram. Al primo messaggio che va contro il regolamento o che avrebbe potuto avere risposta leggendo le F.A.Q. &rarr; **BAN.**
+### Ti invito a leggere il **regolamento** e le **F.A.Q.** che seguono per poter avere una convivenza pacifica e civile all'interno del gruppo Telegram. Al primo messaggio che va contro il regolamento o che avrebbe potuto avere risposta leggendo le F.A.Q. &rarr; **KICK.**
   
 ### **⚠️ ATTENZIONE ⚠️**: Il gruppo, la community, non ha alcun tipo di affiliazione con *Flipper Devices Inc.*  
 
@@ -20,7 +20,9 @@
 - **[🔗 Links](#-links-work-in-progress)**
   
 ### **📜 Regolamento**
-  
+
+- **Non cercare funzionalità illegali**
+  - Il dispositivo deve essere visto come strumento di apprendimento e crescita di skill personali su informatica, elettronica, radio e quant'altro il prodotto abbia da offrire. Non venire a cercare sul gruppo informazioni su utilizzi non prettamente legali, verrai bannato all'istante.
 - **Il gruppo non è un mercatino**
   - Sei alla ricerca di un Flipper Zero? Ci dispiace ma questo non è un gruppo di compra vendita, per acquistarlo puoi fare riferimento al sito ufficiale e al rivenditore  ufficiale, oltre ai classici siti web per la compravendita online.
   - Puoi richiedere se qualcuno vende dispositivo e/o accessori, ma ogni tipo di messaggio successivo e inerente alla compravendita deve avvenire in privato tra acquirente e venditore, sul gruppo non deve apparire nulla. **Evita spam di richieste**.
